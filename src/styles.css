@@ -1,0 +1,47 @@
+.App {
+  font-family: sans-serif;
+  color: goldenrod;
+  text-align: center;
+  background-color: black;
+}
+.btn-menu {
+  cursor: pointer;
+  background-color: goldenrod;
+  color: black;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  border: 1px solid black;
+  margin: 1rem 0.3rem;
+}
+.list-style {
+  list-style: none;
+  padding: 1rem;
+  border: 1px solid #d1d5db;
+  width: 40%;
+  margin: auto;
+  border-radius: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+.Place-name {
+  font-size: large;
+  margin-top: 0.5rem;
+  color: green;
+}
+.about-place {
+  font-size: small;
+}
+.primary {
+  cursor: pointer;
+
+  color: green;
+
+  margin-top: 0.5rem;
+}
+.link {
+  text-decoration: none;
+  color: green;
+}
+.img {
+  width: 50%;
+  margin-top: 1rem;
+}
